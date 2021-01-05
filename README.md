@@ -1,2 +1,1 @@
-# dasmoumi.github.io
-personal profile
+Visit my [personal profile](https://dasmoumi.github.io)
